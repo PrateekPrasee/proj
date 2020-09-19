@@ -1,0 +1,11 @@
+
+	#loginform{
+		width:900px;
+		height:550px;
+		border: 3px solid #eaeced;
+		padding: 80px 60px 36px;
+		border-radius: 500px;
+		border-shadow: #cedab2 0px 0px 2px 2px, #000000 4px 4px 8px, #4d4d4d -4px -4px 8px;
+		background: #008765;
+		}
+		

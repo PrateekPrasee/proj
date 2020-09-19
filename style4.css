@@ -1,0 +1,53 @@
+ :root{
+     --lg-lightcolor: linear-gradient(to bottom, rgba(150, 235, 140, 0.3), rgba(180, 160, 230, 0.3));
+    }
+   body{
+    background-image: var(--lg-lightcolor), url('3.jpg');
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+   
+}
+
+ h1
+    {
+    font-size: 300%;
+    font-family:Lucida Handwriting;
+    color: darkorange;
+    text-align: left;
+    margin-left: -100px;
+    }
+
+ h4
+    {
+    font-size: 150%;
+    font-family:Lucida Handwriting;
+    color: #FF8066;
+    text-align: left;
+    margin-left: -100px;
+    margin-left: -100px;
+}
+
+  h5{
+    text-align: center;
+    color: #DDED81;
+}
+
+ a:link,a:visited
+    {
+        background-color: green;
+        color: white;
+        font-family: Centaur;
+        font-size: 150%;
+        padding: 25px 40px;
+        text-align: center;
+        display: inline-block;
+        margin-left: 40.5%;
+    }
+    a:hover, a:active
+    {
+        background-color: orange;
+    }
